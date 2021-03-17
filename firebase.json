@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "plantilla-treact",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
