@@ -46,7 +46,7 @@ export default ({ headingText = "Terms And Condition" }) => {
           </HeadingRow>
           <Text>
 
-            <p>Last updated: April 21, 2020</p>
+           
 
             <p>Please read these terms and conditions carefully before using Our Service.</p>
 
@@ -88,7 +88,7 @@ export default ({ headingText = "Terms And Condition" }) => {
                 available by the Service.
               </li>
               <li>
-                <strong>Website</strong> refers to Treact, accessible from https://treact.com
+                <strong>Website</strong> refers to Treact, accessible from https://github.com/DiegoCuba/plantilla-treact
               </li>
               <li>
                 <strong>You</strong> means the individual accessing or using the Service, or the company, or other legal
@@ -259,13 +259,7 @@ export default ({ headingText = "Terms And Condition" }) => {
               website and the Service.
             </p>
 
-            <h1>Contact Us</h1>
-            <p>If you have any questions about these Terms and Conditions, You can contact us:</p>
-
-            <ul>
-              <li>By email: support@example.com</li>
-              <li>By phone number: 408.996.1010</li>
-            </ul>
+           
           </Text>
         </ContentWithPaddingXl>
       </Container>

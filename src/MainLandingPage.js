@@ -123,7 +123,7 @@ export default ({
               <img src={logo} alt="" />
               Treact
             </LogoLink>
-            <DownloadLink target="_blank" href="https://gum.co/QaruQ">
+            <DownloadLink target="_blank" href="https://github.com/DiegoCuba/plantilla-treact">
               Download Now
             </DownloadLink>
           </NavRow>
